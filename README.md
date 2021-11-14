@@ -66,7 +66,7 @@ provided on GUI.
 
 3. You can click on 'read more' to read more about the respective dll import.
 
-    ![search](assets/r3.jpg)
+    ![search](assets/r3.jpeg)
     <br>
 </br>
 
