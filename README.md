@@ -3,7 +3,9 @@
    
 </br>
 
-![Static Malware analysis](assets/icon.jfif)
+<p align="center">
+  <img width="199" height="162" src="./assets/icon.jfif">
+</p>
 
 ## Table of Contents
 - [**QuickSMA**](#quicktoll)
