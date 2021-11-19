@@ -24,8 +24,6 @@
 ## About
 Malware, short for “malicious software,” refers to any intrusive software developed by cybercriminals (often called “hackers”) to steal data and damage or destroy computers and computer systems. Examples of common malware include viruses, worms, Trojan viruses, spyware, adware, and ransomware.
 
-Malware can destroy data, damage your computer, cause your computer to damage other computers, steal information, or cause other harm to property and even life in the case of a system which is in control of some equipment or machinery.
-
 QuickSMA is an implementation of static malware analysis.
 
 **Static malware analysis** involves examining any given malware sample without actually running or executing the code. This is usually done by determining the signature of the malware binary; the signature is a unique identification for the binary file. 
