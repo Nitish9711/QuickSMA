@@ -77,9 +77,10 @@ provided on GUI.
 
 ## How to Run this Project
 1. Clone this Repo to your Local Machine.
-2. Open The Terminal/CMD in the rootfolder .
-3. Type ```python TOC_malware.py' ```to run the project.
-4. You will be asked to upload an executable , select an executable and open it.  
+2. Open The Terminal/CMD in the folder QuickSMA .
+3. Type py -m pip install -r requirements.txt' to install all the required libraries.
+4. Type ```python TOC_malware.py' ```to run the project.
+5. You will be asked to upload an executable , select an executable and open it.  
 6. Click on Analyse and you will be able to see all the dll imports and IP addresses.
 7. Click on 'Read more' to read more about the respective dll import.
 
